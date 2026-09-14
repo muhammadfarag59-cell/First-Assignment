@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
     text-align: center;
     color: skyblue;
@@ -25,3 +26,32 @@ p{
     background-color: red;
     color: white;
 }
+=======
+h1 {
+    text-align: center;
+    color: skyblue;
+}
+p{
+    text-align: center;
+}
+.about{
+    color: skyblue;
+}
+.exp{
+    color: skyblue;
+}
+.cont{
+    color: skyblue;
+}
+.skills{
+    background-color: skyblue;
+}
+.first-btn{
+    background-color: blue;
+    color: white;
+}
+.second-btn{
+    background-color: red;
+    color: white;
+}
+>>>>>>> 22c86f070b2684d42bcf0618ad4276ed57c96711
